@@ -14,13 +14,13 @@ stock = {"tea": 5 ,
 
 # Create a dictionary to assign a price to every item from the menu.
 
-price = {"tea": 2,
-         "apple pie": 4.50,
-         "coffee": 2.50, 
-         "hot chocolate": 2,
-         "brownie": 2.75,
-         "tart": 3.50,
-         "iced-tea": 2.50}
+price = {"tea": 3,
+         "apple pie": 5.50,
+         "coffee": 3.50, 
+         "hot chocolate": 3,
+         "brownie": 3.75,
+         "tart": 4.50,
+         "iced-tea": 3.50}
 
 # Create a variable to store the total price value of all available stock at the cafe.
 
