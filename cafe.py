@@ -1,14 +1,26 @@
 # Create list with items from the menu.
 
-menu = ["tea", "apple pie", "coffee", "hot chocolate"]
+menu = ["tea", "apple pie", "coffee", "hot chocolate", "brownie", "tart", "iced-tea"]
 
 # Create a dictionary to assign a stock value to every item from the menu.
 
-stock = {"tea": 5 , "apple pie": 7 , "coffee": 2 , "hot chocolate": 3}
+stock = {"tea": 5 ,
+         "apple pie": 7,
+         "coffee": 2,
+         "hot chocolate": 3,
+         "brownie": 2,
+         "tart": 3,
+         "iced-tea": 4}
 
 # Create a dictionary to assign a price to every item from the menu.
 
-price = {"tea": 2 , "apple pie": 4.50 , "coffee": 2.50 , "hot chocolate": 2}
+price = {"tea": 2,
+         "apple pie": 4.50,
+         "coffee": 2.50, 
+         "hot chocolate": 2,
+         "brownie": 2.75,
+         "tart": 3.50,
+         "iced-tea": 2.50}
 
 # Create a variable to store the total price value of all available stock at the cafe.
 
